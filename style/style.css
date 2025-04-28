@@ -24,3 +24,21 @@ body {
     border-radius: 10px;
     padding: 1em;
 }
+
+#add-book-button{
+    font-size: 16px;
+    font-weight: bolder;
+    width: 3em;
+    height: 3em;
+    background-color: #f1db9e;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    margin:auto;
+}
+
+#add-book-button:hover {
+    background-color: #65d6f8;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
