@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/assets/library bg.jpg");
+    background-image: url("../assets/library bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
